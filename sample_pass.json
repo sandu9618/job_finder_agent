@@ -1,0 +1,7 @@
+{
+  "job_id": "job_123",
+  "score": 85,
+  "rationale": "Strong fit for the role.",
+  "matched_skills": ["Python", "Django"],
+  "missing_skills": ["AWS"]
+}

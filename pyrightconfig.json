@@ -1,0 +1,5 @@
+{
+  "venvPath": "job_finder_agent",
+  "venv": ".venv",
+  "extraPaths": ["."]
+}

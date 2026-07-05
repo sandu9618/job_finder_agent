@@ -1,0 +1,27 @@
+{
+  "cv": {
+    "skills": ["Python", "AWS"],
+    "titles": ["Engineer"],
+    "years_experience": 2.0,
+    "years_experience_verified": true,
+    "education": [],
+    "location": "NY",
+    "summary": "Good engineer"
+  },
+  "posting": {
+    "job_id": "job_xyz123",
+    "title": "Engineer",
+    "company": "Corp",
+    "location": "NY",
+    "description": "desc",
+    "url": "http://example.com",
+    "security_flag": true
+  },
+  "score": 90,
+  "skill_gap": {
+    "job_id": "job_xyz123",
+    "matched_skills": null,
+    "missing_skills": null,
+    "learning_suggestion": "Flagged"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "cv": {
+    "skills": ["Python"],
+    "titles": ["Engineer"],
+    "years_experience": 2.0,
+    "years_experience_verified": true,
+    "education": [],
+    "location": "NY",
+    "summary": ""
+  },
+  "postings": [
+    {
+      "posting": {
+        "job_id": "2",
+        "title": "Engineer",
+        "company": "Corp",
+        "location": "NY",
+        "description": "desc",
+        "url": "http://example.com",
+        "security_flag": true
+      },
+      "score": 90,
+      "rationale": "good",
+      "matched_skills": [],
+      "missing_skills": []
+    }
+  ],
+  "skill_gaps": [
+    {
+      "job_id": "2",
+      "matched_skills": null,
+      "missing_skills": null,
+      "learning_suggestion": "Skill-gap analysis skipped because this posting was flagged by the security checkpoint."
+    }
+  ]
+}

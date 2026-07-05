@@ -1,0 +1,36 @@
+{
+  "cv": {
+    "skills": [],
+    "titles": ["Engineer"],
+    "years_experience": 2.0,
+    "years_experience_verified": true,
+    "education": [],
+    "location": "NY",
+    "summary": ""
+  },
+  "postings": [
+    {
+      "posting": {
+        "job_id": "3",
+        "title": "Engineer",
+        "company": "Corp",
+        "location": "NY",
+        "description": "desc",
+        "url": "http://example.com",
+        "security_flag": false
+      },
+      "score": 90,
+      "rationale": "good",
+      "matched_skills": [],
+      "missing_skills": []
+    }
+  ],
+  "skill_gaps": [
+    {
+      "job_id": "3",
+      "matched_skills": [],
+      "missing_skills": ["Python"],
+      "learning_suggestion": "Learn Python (Note: Skill data was limited from CV.)"
+    }
+  ]
+}

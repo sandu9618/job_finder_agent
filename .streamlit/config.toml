@@ -1,0 +1,17 @@
+[theme]
+base = "light"
+primaryColor = "#6366f1"
+backgroundColor = "#f8fafc"
+secondaryBackgroundColor = "#ffffff"
+textColor = "#0f172a"
+font = "sans serif"
+
+# For screen recordings, uncomment the lines below (or set UI_HIDE_STREAMLIT_CHROME=1 in .env).
+# [ui]
+# hideTopBar = true
+#
+# [client]
+# toolbarMode = "minimal"
+
+[server]
+headless = true
